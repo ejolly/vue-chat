@@ -2,7 +2,7 @@
 Front-end only real-time chat app using VueJS and Firebase. Also includes an example of writing a Firebase server-side function. The function simply deletes new messages in the messages collection if the collection size > 10 documents.
 
 ## Live Demo  
-This app is **[Live](https://gifted-mayer-f7b5c0.netlify.com)** on [Netlify](https://www.netlify.com/). It auto-builds from this repository and serves the app which is already connected to Firebase.
+This app is **[Live](https://gifted-mayer-f7b5c0.netlify.com)** on [Netlify](https://www.netlify.com/). It auto-builds from this private repository and serves the app which is already connected to Firebase.
 
 ## Firebase  
 [Firebase project link](https://console.firebase.google.com/project/vue-chat-65c52/overview). Use the firebase CLI to interact with firebase:
